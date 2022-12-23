@@ -1,0 +1,1 @@
+const combineNames = (first,second) =>  `${first} ${second}`;
