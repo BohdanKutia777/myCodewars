@@ -1,0 +1,1 @@
+const evenNumbers = (array, number) => array.filter(el => el % 2 === 0).reverse().slice(0,number).reverse();
