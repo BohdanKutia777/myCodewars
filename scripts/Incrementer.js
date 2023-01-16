@@ -1,1 +1,1 @@
-const incrementer = nums => nums.map((v,i)=>(v+i+1)%10);
+const incrementer = nums => nums.map((v,i)=>(v+i+1)%10);s
