@@ -1,0 +1,1 @@
+const removeRotten = bagOfFruits => bagOfFruits ? bagOfFruits.map(x=>x.toLowerCase().replace(/rotten/ig,"")) : [];
