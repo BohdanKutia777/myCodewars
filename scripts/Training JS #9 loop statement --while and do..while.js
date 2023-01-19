@@ -12,4 +12,4 @@ function padIt(str,n){
     }
   
     return result
-  }
+  } 
