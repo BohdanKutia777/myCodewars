@@ -1,0 +1,1 @@
+const jumpingNumber = n => [...n+''].every((c,i,a)=>!i||Math.abs(c-a[i-1])===1) ? 'Jumping!!' : 'Not!!';;
