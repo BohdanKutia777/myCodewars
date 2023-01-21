@@ -1,0 +1,1 @@
+const specialNumber = n => /[6-9]/.test(n) ? "NOT!!" : "Special!!";
