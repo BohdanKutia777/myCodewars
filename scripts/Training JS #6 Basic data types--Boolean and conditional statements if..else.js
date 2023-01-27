@@ -1,0 +1,1 @@
+const trueOrFalse = val => Boolean(val).toString();
