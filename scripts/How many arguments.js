@@ -1,0 +1,1 @@
+const args_count=(...arg) => arg.length;
