@@ -1,0 +1,1 @@
+const solve = s => Math.max(...s.replace(/[^aeiuo]/gi,' ').split(' ').map(v=>v=v.length));
