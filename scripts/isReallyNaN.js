@@ -1,0 +1,1 @@
+const isReallyNaN = number => Number.isNaN(number);
