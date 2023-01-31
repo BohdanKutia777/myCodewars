@@ -1,0 +1,1 @@
+const catMouse = x => /\.\.\.\./.test(x) ? "Escaped!" : "Caught!";
