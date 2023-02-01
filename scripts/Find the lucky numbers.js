@@ -1,0 +1,1 @@
+const filterLucky = x => x.filter(v=>v.toString().includes(7));
