@@ -1,0 +1,1 @@
+const swap = string => string.replace(/[aeuio]/gi,$1=>$1.toUpperCase());
