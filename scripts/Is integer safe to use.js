@@ -1,0 +1,1 @@
+const SafeInteger = num => Number.isSafeInteger(num);
