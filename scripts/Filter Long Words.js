@@ -1,0 +1,1 @@
+const filterLongWords = (sentence, n) => sentence.split(' ').filter(el => el.length >= (n+1));
