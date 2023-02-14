@@ -1,0 +1,1 @@
+const gordon = a => a.toUpperCase().replace(/[A]/gi,'@').replace(/[aeiuo]/gi,'*').split(` `).map(v => v +'!!!!').join(` `);
