@@ -1,0 +1,1 @@
+const bandNameGenerator = (str) => str.slice(0,1) != str.slice(-1) ? 'The '+str.slice(0,1).toUpperCase() + str.slice(1) : str.slice(0,1).toUpperCase() + str.slice(1) + str.slice(1);
